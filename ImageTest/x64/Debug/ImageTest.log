@@ -1,0 +1,109 @@
+﻿  main.cpp
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\globals_utils.h(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\globals_utils.h(67): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(228): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(228): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(229): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(229): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(688): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(689): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(690): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(693): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(694): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(711): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\image.h(711): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\pyramid.h(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\pyramid.h(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\pyramid.h(202): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\pyramid.h(282): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\pyramid.h(282): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\pyramid.h(283): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\pyramid.h(283): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(62): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(95): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(132): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(132): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(133): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(133): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(134): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(134): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(307): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(313): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(313): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(328): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(328): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(329): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(329): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(357): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(357): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(358): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(358): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(393): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(393): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(416): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(416): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(417): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(417): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(458): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(458): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(460): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(460): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(461): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(461): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(581): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(585): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(594): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(594): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(595): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(595): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(596): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(597): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(598): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(599): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(609): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(609): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(610): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(610): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(712): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(713): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(719): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(720): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(734): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(735): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(741): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(742): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(765): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(766): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(779): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(805): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(806): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(817): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(922): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(939): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(945): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(952): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(958): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(995): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(1142): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(1142): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(1156): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(1156): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(1171): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\josh\box sync\upenncggt\cis_660_advgraphanim\authoring\animationstylizer\imagetest\imagetest\stylizer.h(1171): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  ImageTest.vcxproj -> C:\Users\Josh\Box Sync\UPennCGGT\cis_660_advgraphanim\authoring\animationstylizer\ImageTest\x64\Debug\ImageTest.exe
+  ImageTest.vcxproj -> C:\Users\Josh\Box Sync\UPennCGGT\cis_660_advgraphanim\authoring\animationstylizer\ImageTest\x64\Debug\ImageTest.pdb (Partial PDB)
+  The system cannot find the path specified.
+  C:\opencv\build\x64\vc14\bin\opencv_annotation.exe
+  C:\opencv\build\x64\vc14\bin\opencv_createsamples.exe
+  C:\opencv\build\x64\vc14\bin\opencv_ffmpeg320_64.dll
+  C:\opencv\build\x64\vc14\bin\opencv_traincascade.exe
+  C:\opencv\build\x64\vc14\bin\opencv_version.exe
+  C:\opencv\build\x64\vc14\bin\opencv_visualisation.exe
+  C:\opencv\build\x64\vc14\bin\opencv_world320.dll
+  C:\opencv\build\x64\vc14\bin\opencv_world320d.dll
+          8 file(s) copied.

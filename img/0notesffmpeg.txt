@@ -1,0 +1,31 @@
+https://trac.ffmpeg.org/wiki/Slideshow
+
+need to do this for images spit out from animation stylizer, bash command to rename file extensions: 
+ren *.jpg *.bmp
+
+//ffmpeg command to take frames at 12fps
+ffmpeg -start_number 0 -framerate 12 -i lvl0Bprime%d.bmp output.mp4
+
+//start frame number for each image set is set, frame rate set for each, 
+//vframes is total frames to do
+ffmpeg -start_number 653 -framerate 12 -i lvl0Bprime%d.bmp -start_number 653 -framerate 12 -i ../output640_%d.bmp -vframes 930 -filter_complex hstack output.mp4
+
+ffmpeg -f concat -i 0mylist.txt -c copy output_3sequence.mp4
+
+
+0mylist.txt has relative paths like:
+#this is a comment in the file
+file 'somefile.mp4'
+file 'otherlocation/somefile2.mp4'
+file '../anotherlocale/anotherone.mp4'
+
+
+split video into frames
+-r fps/1
+make sure anvilframes folder exists before running
+ffmpeg -i lorn_anvil.mp4 -r 24/1 anvilframes/output%d.bmp
+
+
+resizing images
+set x to 640 and y to its ratio preserving size, starting at frame 114
+ffmpeg -start_number 114 -i output%d.bmp -vf scale=640:-1 resize/output640_%d.bmp

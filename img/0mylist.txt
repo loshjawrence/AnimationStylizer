@@ -1,0 +1,6 @@
+# files to concatonate
+file 'STYLIZED_FRAMES/input.mp4'
+file 'STYLIZED_FRAMES/crosshatch.mp4'
+file 'STYLIZED_FRAMES/starryoil.mp4'
+file 'STYLIZED_FRAMES/crosshatch_tmpcoh.mp4'
+file 'STYLIZED_FRAMES/starryoil_tmpcoh.mp4'
