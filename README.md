@@ -12,7 +12,7 @@ Examples that follow are without temporal coherence since we were unable to obta
 **Face**<br />
 ![](img/mixfaces.png)
 **Butterfly**<br />
-![](img/misflys.png)
+![](img/mixflys.png)
 **No Suprises Frames**<br />
 ![](img/grad2_face1.bmp)
 ![](img/grad2_face122.bmp)
@@ -35,12 +35,16 @@ Examples that follow are without temporal coherence since we were unable to obta
 **Debug views**<br />
 **Style Source locations**<br />
 ![](img/loc.png)
+
 **Gaussian pyramid**<br />
 ![](img/pyramid.png)
+
 **Per pixel gradients (dx2,dy2,dxdy)**<br />
 ![](img/dx2dy2dxdy.png)
+
 **Per pixel neighborhood orientation**<br />
 ![](img/ORI.png)
+
 **Farneback Optic flow**<br />
 ![](img/checkerfwd27.png)
 
