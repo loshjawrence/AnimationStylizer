@@ -4,9 +4,9 @@ Mini Minecraft Project**
 * Josh Lawrence
 
 **Overview**<br />
-This was a group project with Grace Xu wherein we implemented a recent siggraph paper. 
+This was a group project with Grace Xu wherein we implemented a recent siggraph paper from scratch. 
 The paper is here: https://graphics.pixar.com/library/ByExampleStylization/paper.pdf. We need to also implement other papers (Image Analogies, Patch Match) in order to implement this paper. 
-Examples that follow are without temporal coherence since we were unable to obtain good enough quality optical flow from the Lucas-Kanade method or OpenCV. After talking with the author, odd things can happen if the optical flow is of poor quality, which makes the result look off in motion areas. The only libraries we used was Sean Barrett's stb-image libs. If temporal coherence is turned on we use OpenCV's calcOpticalFlowFarneback to obtain an image of optical flow values to advect results from one frame to another.
+Examples that follow are without temporal coherence since we were unable to obtain good enough quality optical flow from the Lucas-Kanade method or OpenCV. After talking with the author, odd things can happen if the optical flow is of poor quality, which makes the result look off in motion areas. The only libraries we used was Sean Barrett's stb-image libs and opencv to get optic flow info between frames. If temporal coherence is turned on we use OpenCV's calcOpticalFlowFarneback to obtain an image of optical flow values to advect results from one frame to another.
 
 **Results**<br />
 **Face**<br />
